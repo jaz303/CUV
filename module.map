@@ -1,4 +1,4 @@
-module CUV [system] [extern_c] {
+module CUV [system] {
 	header "/usr/local/include/uv.h"
 	link "uv"
 	export *
